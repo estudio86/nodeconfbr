@@ -1,28 +1,25 @@
-# Nome Completo
+# João Paulo Rodrigues
 
- * Comitê    : Nome do comitê
- * Twitter   : [@usuario](https://twitter.com/usuario)
- * GitHub    : [usuario](https://github.com/usuario)
- * Website   : [usuario.com](http://usuario.com)
- * Telefone  : +5511999999999
+ * Comitê    : Comitê de P&P
+ * Twitter   : [@usuario](https://twitter.com/estudio86)
+ * GitHub    : [usuario](https://github.com/estudio86)
+ * Website   : [usuario.com](http://estudio86.com.br)
+ * Telefone  : +55112937-1986
 
 ### Mini bio
 
-![Uma foto com 300px](http://placehold.it/300&text=Sua+foto+com+300px)
+http://imgur.com/BrNdjGU
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum adipisci
-delectus ad velit magnam dicta quas mollitia, praesentium fugit earum sed
-aspernatur, cupiditate deserunt laborum incidunt dignissimos accusamus quam
-ipsam.
+Fundado em 2012, o Estúdio86 é um escritório criativo focado na busca de novas ideias e soluções inovadoras. Estamos sempre atentos às novas tecnologias e tendência de mercado, buscando estabelecer a comunicação ideal entre as marcas e o seu público, de maneira direta e eficiente. Fale conosco: contato@estudio86.com.br
 
 
 ### Responsabilidades
 
- * Ajudar na organização financeira
- * Criar planilhas
- * Manter a comunidade informada
- * Lorem ipsum dolor sit amet, consectetur
- * Adipisicing elit
- * Laborum accusantium soluta asperiores omnis
-
-
+* Identidade visual
+* Material de publicidade
+* Marketing
+* Website
+* Integração com serviço de ingresso
+* Material de identificação (camisetas, crachás)
+* Materiais diversos
+* Outros
