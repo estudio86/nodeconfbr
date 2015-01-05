@@ -1,9 +1,9 @@
 # João Paulo Rodrigues
 
  * Comitê    : Comitê de P&P
- * Twitter   : [@usuario](https://twitter.com/estudio86)
- * GitHub    : [usuario](https://github.com/estudio86)
- * Website   : [usuario.com](http://estudio86.com.br)
+ * Twitter   : [@estudio86](https://twitter.com/estudio86)
+ * GitHub    : [estudio86](https://github.com/estudio86)
+ * Website   : [estudio86.com.br](http://estudio86.com.br)
  * Telefone  : +55112937-1986
 
 ### Mini bio
